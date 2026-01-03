@@ -4,10 +4,11 @@
 
 ### DevOps Engineer | Cloud Infrastructure & AI/ML Platform Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/york-tanaka)
+![Profile Views](https://komarev.com/ghpvc/?username=ichiko1990&color=blueviolet&style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/york-tanaka-a07361363)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:york.tiger.2024@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/your-calendly)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://york-tanaka.vercel.app)
 
 ---
 
@@ -23,7 +24,7 @@ Expert in building **GPU-powered, self-hosted environments** to deploy and optim
 
 <div align="center">
 
-📍 Windsor, ON, Canada | 📧 york.tiger.2024@gmail.com | 📱 (251) 250-0203
+📍 Windsor, ON, Canada | 📧 york.tiger.2024@gmail.com | 📱 +12512500203
 
 ---
 
@@ -138,7 +139,7 @@ Expert in building **GPU-powered, self-hosted environments** to deploy and optim
 
 I'm always open to discussing DevOps, cloud infrastructure, AI/ML platforms, or potential collaborations!
 
-**[Email](mailto:york.tiger.2024@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/york-tanaka)** • **[Portfolio](https://yourportfolio.com)** • **[Calendly](https://calendly.com/your-calendly)**
+**[Email](mailto:york.tiger.2024@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/york-tanaka-a07361363)** • **[Portfolio](https://york-tanaka.vercel.app)**
 
 ---
 
