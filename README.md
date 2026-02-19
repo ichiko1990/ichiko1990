@@ -24,8 +24,6 @@ Expert in building **GPU-powered, self-hosted environments** to deploy and optim
 
 <div align="center">
 
-📍 Windsor, ON, Canada | 📧 york.tiger.2024@gmail.com | 📱 +12512500203
-
 ---
 
 </div>
