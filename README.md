@@ -106,6 +106,7 @@ Experienced in building **AI-powered platforms**, including **RAG pipelines, LLM
 
 ## 🚀 Key Achievements
 
+<div align="center">
 | Metric | Achievement |
 |:------:|:-----------:|
 | 💰 **Cost Reduction** | Reduced infrastructure costs by **25%** |
@@ -113,7 +114,7 @@ Experienced in building **AI-powered platforms**, including **RAG pipelines, LLM
 | 🚀 **Performance** | Reduced system latency by **40%** (RAG pipelines) |
 | 📈 **Efficiency** | Improved deployment frequency by **35%** |
 | 🔍 **Observability** | Reduced incident resolution time by **35–50%** |
-
+</div>
 ---
 
 ## 🎓 Education & Certifications
