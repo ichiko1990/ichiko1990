@@ -136,7 +136,6 @@ Experienced in building **AI-powered platforms**, including **RAG pipelines, LLM
     </tr>
   </tbody>
 </table>
----
 
 ## 🎓 Education & Certifications
 
