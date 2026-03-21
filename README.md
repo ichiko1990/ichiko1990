@@ -116,31 +116,6 @@ Experienced in building **AI-powered platforms**, including **RAG pipelines, LLM
 
 ---
 
-## 💼 Professional Experience (Highlights)
-
-### **Software Engineer — Next Dimension (2024–2025)**
-- Designed **cloud-native AI platforms** using FastAPI, Node.js, React, Next.js
-- Built **event-driven RAG pipelines** improving latency by **40%**
-- Architected **hybrid cloud infrastructure (AWS, GCP, GPU platforms)** using Terraform & Kubernetes
-- Implemented **CI/CD, observability, and secure SDLC practices**
-
-### **Full Stack Engineer — ACS (2021–2024)**
-- Developed **microservices-based systems** with .NET, Python, Node.js
-- Built **event-driven architectures** with messaging systems
-- Deployed **containerized applications** using Docker, Kubernetes, CI/CD
-
-### **Full Stack Engineer — AlphaKOR (2018–2021)**
-- Built **serverless and event-driven systems** using AWS Lambda & API Gateway
-- Developed automation platforms reducing manual processes by **30%**
-- Designed **secure APIs and multi-tenant systems**
-
-### **Full Stack Developer — Safeguard Global (2015–2018)**
-- Delivered full-stack applications for **e-commerce & financial platforms**
-- Built **high-performance APIs and optimized frontend experiences**
-- Improved system performance and reduced latency by **20%**
-
----
-
 ## 🎓 Education & Certifications
 
 **Bachelor’s Degree in Computer Science**  
