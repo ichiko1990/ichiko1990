@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm York Tanaka
 
-### DevOps Engineer | Cloud Infrastructure & AI/ML Platform Specialist
+### Senior Software Engineer | Cloud-Native & AI Platform Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ichiko1990&color=blueviolet&style=flat-square)
 
@@ -12,121 +12,151 @@
 
 ## ✨ About Me
 
-DevOps Engineer with **9+ years of experience** architecting and automating cloud-native infrastructures across **AWS, Azure, and GCP**. Specialized in Kubernetes, Terraform, Ansible, and CI/CD pipelines for scalable, secure, and high-availability systems.
+Senior Software Engineer with **10+ years of experience** delivering secure, scalable, cloud-native systems across enterprise environments.
 
-Expert in building **GPU-powered, self-hosted environments** to deploy and optimize AI, LLM, and Generative AI models across distributed architectures. Proven success designing microservices-driven platforms with advanced observability, cost efficiency, and resilience.
+Specialized in:
+- **Microservices & Event-Driven Architecture**
+- **Kubernetes-based distributed systems (AWS & GCP)**
+- **DevOps, Infrastructure-as-Code, and GitOps workflows**
 
-**Adept at bridging DevOps automation with AI infrastructure engineering** to drive next-generation, production-grade machine learning systems.
+Strong background in designing **high-availability systems**, **secure authentication (OAuth2/OIDC)**, and **observability practices** (logging, monitoring, tracing).
 
-<div align="center">
+Experienced in building **AI-powered platforms**, including **RAG pipelines, LLM orchestration, and multi-agent systems**, bridging backend engineering with modern AI infrastructure.
 
 ---
-
-</div>
 
 ## 🛠️ Tech Stack
 
-### Cloud Platforms
-<div align="center">
+### 💻 Programming Languages
+- Python, JavaScript, TypeScript
+- C#, Java, Go, SQL
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+### 🏗️ Architecture & Design
+- Cloud-Native Architecture
+- Microservices Architecture
+- Event-Driven Architecture (EDA)
+- Domain-Driven Design (DDD)
+- Distributed Systems Design
+- API Design (OpenAPI 3.0)
+- Scalable System Design
+- Hybrid Cloud Architecture
+- System Integration Patterns & NFRs
 
-*EKS • ECS • Lambda • IAM • VPC • GKE • CloudRun • Pub/Sub*
+### 🤖 AI & GenAI
+- LangChain, LangGraph, CrewAI, MCP
+- RAG, embeddings, semantic search
+- Vector DBs (Pinecone, FAISS)
+- Prompt Engineering & LLM Routing
+- GPT, Claude, Mistral, Gemini
+- LangSmith, multi-agent workflows
+- STT/TTS (Deepgram, ElevenLabs, LiveKit)
+- GPU platforms (CoreWeave, RunPod)
 
-</div>
+### ⚙️ Backend Development
+- FastAPI, Flask, Django
+- Node.js, Express, NestJS
+- Spring Boot, .NET
+- GraphQL, REST APIs, OpenAPI
+- Prisma, Celery, Redis
+- WebSockets, gRPC
 
-### Infrastructure & Orchestration
-<div align="center">
+### 🎨 Frontend Development
+- React, Next.js, TypeScript
+- Tailwind CSS
+- Zustand, Context API
+- Responsive UI Design
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Lambda, EKS, ECS, RDS, DynamoDB, Step Functions, EventBridge)
+- GCP (GKE, Pub/Sub)
+- Docker, Kubernetes, OpenShift
+- Terraform, Helm, ArgoCD (GitOps)
+- CI/CD: GitHub Actions, Jenkins
+- Vercel, Heroku
 
-</div>
+### 🗄️ Databases & Data Architecture
+- PostgreSQL, MySQL, DynamoDB
+- Supabase
+- ETL Pipelines
+- Real-time analytics
 
-### CI/CD & Automation
-<div align="center">
+### 🔄 Eventing & Messaging
+- Kafka, RabbitMQ, NATS, Pub/Sub
+- Asynchronous Processing
+- Streaming Architectures
+- CloudEvents
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+### 📊 Observability & Reliability
+- Prometheus, Grafana
+- ELK Stack
+- CloudWatch
+- OpenTelemetry
+- Logging, Monitoring, Alerting
+- SLOs / SLIs
+- High Availability & Fault Tolerance
 
-</div>
-
-### MLOps & AI Infrastructure
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-*CoreWeave • Nebius • Vast.ai • RunPod • Lambda Labs • LLM • Generative AI*
-
-</div>
-
-### Languages & Tools
-<div align="center">
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
-
-</div>
-
-### Microservices & Architecture
-<div align="center">
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-**Bachelor's Degree in Computer Science**  
-*The University of Tokyo | 2011 - 2015*
-
-</div>
-
-**Certifications:**
-- ✅ Development with AI and Web
-- ✅ Web Development with Python
-- ✅ Developer - Cloud DevOps
-- ✅ IBM MO on AWS Cloud Services
-- ✅ IBM Ecosystem Cloud Native Developer Essentials
+### 🔐 Security & Compliance
+- OAuth2, OIDC, JWT, SAML
+- OWASP practices
+- Encryption, SSL/TLS
+- AWS KMS / Key Vault
+- Vulnerability Scanning
 
 ---
 
 ## 🚀 Key Achievements
 
-<div align="center">
-
 | Metric | Achievement |
 |:------:|:-----------:|
 | 💰 **Cost Reduction** | Reduced infrastructure costs by **25%** |
-| ⚡ **Reliability** | Achieved **99.9%** deployment reliability |
-| 🚀 **Performance** | Cut deployment latency by **35%** |
+| ⚡ **Reliability** | Achieved **99.9% deployment reliability** |
+| 🚀 **Performance** | Reduced system latency by **40%** (RAG pipelines) |
 | 📈 **Efficiency** | Improved deployment frequency by **35%** |
-| 🔍 **Observability** | Reduced incident resolution time by **50%** |
-
-</div>
+| 🔍 **Observability** | Reduced incident resolution time by **35–50%** |
 
 ---
 
-*Bridging DevOps automation with AI infrastructure to build next-generation, production-grade ML systems* ✨
+## 💼 Professional Experience (Highlights)
+
+### **Software Engineer — Next Dimension (2024–2025)**
+- Designed **cloud-native AI platforms** using FastAPI, Node.js, React, Next.js
+- Built **event-driven RAG pipelines** improving latency by **40%**
+- Architected **hybrid cloud infrastructure (AWS, GCP, GPU platforms)** using Terraform & Kubernetes
+- Implemented **CI/CD, observability, and secure SDLC practices**
+
+### **Full Stack Engineer — ACS (2021–2024)**
+- Developed **microservices-based systems** with .NET, Python, Node.js
+- Built **event-driven architectures** with messaging systems
+- Deployed **containerized applications** using Docker, Kubernetes, CI/CD
+
+### **Full Stack Engineer — AlphaKOR (2018–2021)**
+- Built **serverless and event-driven systems** using AWS Lambda & API Gateway
+- Developed automation platforms reducing manual processes by **30%**
+- Designed **secure APIs and multi-tenant systems**
+
+### **Full Stack Developer — Safeguard Global (2015–2018)**
+- Delivered full-stack applications for **e-commerce & financial platforms**
+- Built **high-performance APIs and optimized frontend experiences**
+- Improved system performance and reduced latency by **20%**
+
+---
+
+## 🎓 Education & Certifications
+
+**Bachelor’s Degree in Computer Science**  
+*The University of Tokyo*
+
+**Certifications:**
+- Development with AI and Web Services
+- Web Development with Python
+- IBM MQ on AWS Cloud Developer Essentials
+- IBM Ecosystem Cloud Native Developer Essentials
+- Cloud DevOps
+
+---
+
+<div align="center">
+
+### 🚀 Building scalable systems at the intersection of Cloud, DevOps, and AI
 
 </div>
