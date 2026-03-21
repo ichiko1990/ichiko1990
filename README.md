@@ -106,15 +106,36 @@ Experienced in building **AI-powered platforms**, including **RAG pipelines, LLM
 
 ## 🚀 Key Achievements
 
-<div align="center">
-| Metric | Achievement |
-|:------:|:-----------:|
-| 💰 **Cost Reduction** | Reduced infrastructure costs by **25%** |
-| ⚡ **Reliability** | Achieved **99.9% deployment reliability** |
-| 🚀 **Performance** | Reduced system latency by **40%** (RAG pipelines) |
-| 📈 **Efficiency** | Improved deployment frequency by **35%** |
-| 🔍 **Observability** | Reduced incident resolution time by **35–50%** |
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Metric</th>
+      <th align="center">Achievement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">💰 <b>Cost Reduction</b></td>
+      <td align="center">Reduced infrastructure costs by <b>25%</b></td>
+    </tr>
+    <tr>
+      <td align="center">⚡ <b>Reliability</b></td>
+      <td align="center">Achieved <b>99.9% deployment reliability</b></td>
+    </tr>
+    <tr>
+      <td align="center">🚀 <b>Performance</b></td>
+      <td align="center">Reduced system latency by <b>40%</b> (RAG pipelines)</td>
+    </tr>
+    <tr>
+      <td align="center">📈 <b>Efficiency</b></td>
+      <td align="center">Improved deployment frequency by <b>35%</b></td>
+    </tr>
+    <tr>
+      <td align="center">🔍 <b>Observability</b></td>
+      <td align="center">Reduced incident resolution time by <b>35–50%</b></td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 🎓 Education & Certifications
